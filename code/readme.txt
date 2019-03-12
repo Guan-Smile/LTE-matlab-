@@ -1,6 +1,4 @@
-版本：4.0
-移动通信课程设计 2018.5
-第三组 管紫菁 彭程 张天明
+
 
 %%%SISO
 使用方法：1.使用模式：Demo.m 运行即可。(可修改运行函数：[f_averge,BER]=mainFun_2(Snr,fd(i));%%%%%%%%%%%%%%%1:mainFun_2  2:mainFun_siso_noconvolution，分别对应有无卷积码的模式。)
